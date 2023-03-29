@@ -1,0 +1,133 @@
+33
+AIRCOOLER
+Quat May Hoi Nuoc
+Cai
+212
+AIRPOD
+Tai Nghe Apple Airpod2
+Cai
+1240
+ALIENWARE
+Laptop Alienware M17
+Cai
+531
+BALOHS
+Balo Hoc Sinh
+Cai
+509
+BANHS
+Ban Xep Hoc Sinh
+Cai
+1290
+BITIS
+Bitis Hunter
+Doi
+1012
+BLACKBERRY
+Pearl
+Cai
+20
+BMHANOI
+Banh My Ha Noi
+Cai
+211
+COCACOLA
+Nuoc Ngot Cocacola
+Lon
+1242
+DELL
+Vostro
+Cai
+1
+FINALTEST
+Final Test
+Lan
+25
+HUAWEI
+P30 Pro Plus
+Cai
+2
+IPHONE
+Iphone Se
+Cai
+79765
+JBL
+Loa Bluetooth Jbl
+Cai
+155
+LENOVO
+A300
+Cai
+113
+MOLTEN
+Bong Ro Molten
+Qua
+5153
+MTCASIO
+May Tinh Cam Tay Casio
+Cai
+533
+NINTENDO
+May Choi Game Nintendo
+Cai
+1255
+NK5
+Giay Bong Ro Nike Kyrie 5
+Doi
+1545
+NOTE
+Vo Campus
+Cuon
+123
+OMO
+Bot Giat Omo
+Thung
+152
+OPPO
+Oppo F11
+Cai 
+1545
+SAMSUNG
+Galaxy S10
+Cai
+8499850
+SENKO
+Quat Dien Senko
+Cai
+548
+SUNGMAY
+Galting Gun
+Cai
+9988
+TEST1
+Ct1
+Cai
+1
+TESTLAI
+Casasas
+Cai
+1
+TESTMAX
+Max
+Lan
+0
+THAU
+Thau Nhua
+Cai
+100
+TS100
+Ke Sach
+Cai
+101
+VINAMILK
+Sua Tuoi Vinamilk 
+Thung
+130
+XEMAY
+Xe Honda
+Chiec
+100
+XIAOMI
+Redmi Note 7
+Chiec
+125
